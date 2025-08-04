@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class BoardingGateCheck {
     public static void main(String[] args) {
         int[] actualOrder = {101, 103, 102, 104};
